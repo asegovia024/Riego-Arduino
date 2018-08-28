@@ -9,4 +9,5 @@ Proyecto usado en inteligencia anbiental en el cual el dispositivo mide, actua y
 
 Proyecto arduinio usado para el control y medicion de humedad en canaletas, usando sensores de humedad, una pantalla lcd, un relé y varias hidroválvulas para el control del riego.
 
-
+Foto de la instalacion casera:
+![alt text](https://github.com/asegovia024/Riego-Arduino/blob/master/IMG_20170608_210746.jpg)
